@@ -1,2 +1,2 @@
 # CODSOFT
-CODSOFT python internship taske
+CODSOFT python internship task
